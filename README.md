@@ -1,7 +1,7 @@
 # Essential-Math-For-Data-Science
 This is a practice and revision materials of Essential Math For Data Science written by Thomas Nield from Oreilly.
 
-I recommend reading the book
+I recommend reading the book and Use this as a revision material.
 Buy the book here : https://www.amazon.in/Essential-Math-Data-Science-Fundamental/dp/1098102932
 
 <p align="left">
