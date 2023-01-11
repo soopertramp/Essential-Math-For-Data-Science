@@ -7,3 +7,5 @@ Buy the book here : [Amazon](https://www.amazon.in/Essential-Math-Data-Science-F
 
 <p align="left">
   <img src="https://github.com/soopertramp/Essential-Math-For-Data-Science/blob/main/Cover.png" alt="Background">  
+
+Check out my 
